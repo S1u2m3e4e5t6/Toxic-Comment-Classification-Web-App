@@ -45,13 +45,29 @@ This project was inspired by Kaggle's **Jigsaw Toxic Comment Classification Chal
 ## 📁 Project Structure
 
 ├── app.py # Streamlit interface
+
+
 ├── model/
+
+
 │ └── toxic_bert_model.pt # Trained model
+
+
 ├── data/
+
+
 │ └── comments.csv # Training data
+
+
 ├── utils/
+
+
 │ └── preprocessing.py # Cleaning & tokenizer functions
+
+
 ├── requirements.txt # Dependencies
+
+
 └── README.md
 
 
