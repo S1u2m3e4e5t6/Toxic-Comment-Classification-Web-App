@@ -71,6 +71,17 @@ This project was inspired by Kaggle's **Jigsaw Toxic Comment Classification Chal
 └── README.md
 
 
+![Status](https://img.shields.io/badge/status-in--progress-yellow)
+### 📅 Project Roadmap
+
+- [x] Idea & Planning
+- [x] Tech Stack Finalized
+- [ ] Core Features Development (Ongoing)
+- [ ] Testing & Debugging
+- [ ] Documentation
+- [ ] Final Release (Planned before September 2025)
+
+
 ---
 
 ## 🧪 How to Run Locally
@@ -87,3 +98,9 @@ streamlit run app.py
 ---
 
 Let me know if you’d like me to generate a `requirements.txt` file or `app.py` starter code as well.
+
+
+
+
+
+
