@@ -1,0 +1,6 @@
+!pip install kaggle
+!mkdir ~/.kaggle
+!cp kaggle.json ~/.kaggle/
+!chmod 600 ~/.kaggle/kaggle.json
+!kaggle datasets download -d rtatman/toxic-comment-classification-challenge -f train.csv
+!unzip train.csv.zip
