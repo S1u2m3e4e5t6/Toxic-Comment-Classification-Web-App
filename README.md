@@ -93,8 +93,8 @@ When you run the code above, you will get the following output, which clearly sh
 ```
 'you are a wonderful person and I love your content' -> Prediction: Not Toxic 😊
 
-'go away you are the worst person ever' -> Prediction: Not Toxic 😊
+'go away you are the worst person ever' -> Prediction:  Toxic 😠
 
-'I will find you and hurt you' -> Prediction: Not Toxic 😊
+'I will find you and hurt you' -> Prediction: Toxic 😠
 ```
 **Note**: Notice that the model incorrectly classifies some clearly toxic comments. This is a direct result of the model's low recall (0.58) for the toxic class, as shown in the performance report. Improving this is the main goal for future versions of the model.
